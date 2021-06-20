@@ -1,0 +1,51 @@
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+h1 {
+    
+    color:rgb(27, 26, 26);
+   
+}
+
+head{
+    height:200;
+    margin: 100px;
+   
+    justify-content: space-evenly;
+}
+
+.header{
+    
+    background-image:url("https://tse4.mm.bing.net/th?id=OIP.R5KizvYSBc2RE_yHUCVkjgHaFG&pid=Api&P=0&w=241&h=167");
+    border:solid;
+    display: flex;
+    justify-content: space-between;
+
+}
+.intro{
+    
+    font-size: 30px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.design{
+    border: solid;
+}
+h3{
+    text-align: center;
+    color:rgb(27, 26, 26);
+}
+h2{
+    color:rgb(24, 38, 70);
+}
